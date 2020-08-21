@@ -1,0 +1,14 @@
+//
+// Created by yuancz on 2020/8/20.
+//
+
+#ifndef FFJNIPLAYER_JAVACALLHELPERCOPY_H
+#define FFJNIPLAYER_JAVACALLHELPERCOPY_H
+
+
+class JavaCallHelperCopy {
+
+};
+
+
+#endif //FFJNIPLAYER_JAVACALLHELPERCOPY_H
